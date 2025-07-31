@@ -5,7 +5,7 @@ import java.net.*;
 import java.util.*;
 
 public class ClientEx {
-	public static void main(String[] args) {
+	public void goClientMain() {
 		BufferedReader in = null;
 		BufferedWriter out = null;
 		Socket socket = null;

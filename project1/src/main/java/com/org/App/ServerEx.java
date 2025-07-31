@@ -5,7 +5,7 @@ import java.net.*;
 import java.util.*;
 
 public class ServerEx {
-	public static void main(String[] args) {
+	public void goServerMain() {
 		BufferedReader in = null;
 		BufferedWriter out = null;
 		ServerSocket listener = null;
